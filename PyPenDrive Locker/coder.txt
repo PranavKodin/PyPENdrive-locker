@@ -31,4 +31,4 @@ goto END
 md Locker
 echo Locker created successfully.
 goto END
-:
+
